@@ -1,0 +1,25 @@
+{
+  "tilejson": "3.0.0",
+  "name": ".//tiles",
+  "version": "2",
+  "description": ".//tiles",
+  "type": "overlay",
+  "format": "mvt",
+  "attribution": null,
+  "minzoom": 0,
+  "maxzoom": 18,
+  "center": [
+    139.716568,
+    35.670127,
+    18
+  ],
+  "bounds": [
+    139.711909,
+    35.626501,
+    139.778071,
+    35.677096
+  ],
+  "tiles": [
+    "https://tarosay.github.io/maotransjson/tiles/{z}/{x}/{y}.mvt"
+  ]
+}
